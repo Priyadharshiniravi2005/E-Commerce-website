@@ -1,0 +1,6 @@
+{
+  "name": "Dog Adoption & Breeder Marketplace",
+  "description": "A comprehensive, full-stack e-commerce marketplace for ethically finding, adopting, and purchasing verified pedigree puppies and dogs, complete with an interactive breed matching quiz, a companion starter kit supply store, adoption application processing, and an integrated AI Canine Care Advisor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
